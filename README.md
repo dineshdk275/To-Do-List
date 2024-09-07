@@ -1,5 +1,3 @@
-# Foundation Project
-
 # To-Do-List
 
 ## A Simple To - Do Website!
