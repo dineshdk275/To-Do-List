@@ -1,12 +1,8 @@
-# To-Do-List
-
 # Foundation Project
 
 # To-Do-List
 
 ## A Simple To - Do Website!
-
-# To Do List
 
 
 ### *Features*:
